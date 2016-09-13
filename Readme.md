@@ -32,15 +32,15 @@ Convert a folder worth of ```.JPG``` files to a single pdf, ordered by their nam
 
 Quite a useful tool.
 
-**Usage:** 
-
-Put the script inside the same directory as the folder of JPGs.
-
-Execute the script and, when prompted, enter the name of the folder containing the pictures.
-
-Wait for it to list the file and then press ```Y```.
-
-Done!
+>**Usage:** 
+>
+>Put the script inside the same directory as the folder of JPGs.
+>
+>Execute the script and, when prompted, enter the name of the folder containing the pictures.
+>
+>Wait for it to list the file and then press ```Y```.
+>
+>Done!
 
 ####```mo2po.sh``` & ```po2mo.sh```
 Convert the [GNU gettext](https://en.wikipedia.org/wiki/Gettext) ```Machine Object``` iles to ```Portable Object``` files.
