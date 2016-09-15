@@ -1,15 +1,15 @@
 #MiscTools
 
-Miscellaneous tools and script that I wrote due ti laziness. most of them do something really strange or meaningless, but maybe useful for someone.
+Miscellaneous tools and script that I wrote due to laziness. Most of them do something really strange or meaningless, but they maybe useful for someone.
 
 A brief list of the tools:
 
 #### ```AndroidUpdate.bat```
-A small script for updating android phone OS to newer version by using the [Android Debug Bridge](https://developer.android.com/studio/command-line/adb.html).
+A small script for updating Android phone OS to newer version by using the [Android Debug Bridge](https://developer.android.com/studio/command-line/adb.html).
 
-Useful only to Nexus phones.
+Useful only for Nexus phones.
 
-Before you use this, remember to insall ```adb``` and ```fastboot``` from Google.
+Before you use this, remember to install ```adb``` and ```fastboot``` from Google.
 
 #### ```chrome_purge_cache.cmd```
 A ```.cmd``` file for clearing cache files of Google Chrome.
@@ -25,22 +25,22 @@ Output a text file.
 
 A script for downloading the content of a folder on internet.
 
-Not working the way it should.
+Not working the way it should. **If you expected to use this, don't because this script doesn't work.**
 
 ####```mass_jpg2pdf.sh```
 Convert a folder worth of ```.JPG``` files to a single pdf, ordered by their name.
 
 Quite a useful tool.
 
->**Usage:** 
->
->Put the script inside the same directory as the folder of JPGs.
->
->Execute the script and, when prompted, enter the name of the folder containing the pictures.
->
->Wait for it to list the file and then press ```Y```.
->
->Done!
+**Usage:** 
+
+Put the script inside the same directory as the folder of JPGs.
+
+Execute the script and, when prompted, enter the name of the folder containing the pictures.
+
+Wait for it to list the file and then press ```Y```.
+
+Done!
 
 ####```mo2po.sh``` & ```po2mo.sh```
 Convert the [GNU gettext](https://en.wikipedia.org/wiki/Gettext) ```Machine Object``` iles to ```Portable Object``` files.
@@ -48,11 +48,11 @@ Convert the [GNU gettext](https://en.wikipedia.org/wiki/Gettext) ```Machine Obje
 Forgot why would I write those.
 
 
-####````shutdown.cmd```
+####```shutdown.cmd```
 Simple command for practical jokes and pranks.
 
 
 ## License
 
-All this files are licensed under the MIT License. *(like anyone will care)*
+All this files are licensed under the MIT License. *(like anyone would care)*
 
