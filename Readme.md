@@ -1,15 +1,15 @@
 # MiscTools
 
-Miscellaneous tools and script that I wrote due ti laziness. most of them do something really strange or meaningless, but maybe useful for someone.
+Miscellaneous tools and script that I wrote due to laziness. Most of them do something really strange or meaningless, but they maybe useful for someone.
 
 A brief list of the tools:
 
 #### `AndroidUpdate.cmd`
 A small script for updating android phone OS to newer version by using the [Android Debug Bridge](https://developer.android.com/studio/command-line/adb.html).
 
-Useful only to Nexus phones.
+Useful only for Nexus phones.
 
-Before you use this, remember to insall ```adb``` and ```fastboot``` from Google.
+Before you use this, remember to install ```adb``` and ```fastboot``` from Google.
 
 #### `chrome_purge_cache.cmd`
 A `.cmd` file for clearing cache files of Google Chrome.
@@ -25,7 +25,7 @@ Output a text file.
 
 A script for downloading the content of a folder on internet.
 
-Not working the way it should.
+Not working the way it should. **If you expected to use this, don't because this script doesn't work.**
 
 ####`mass_jpg2pdf.sh`
 Convert a folder worth of ```.JPG``` files to a single pdf, ordered by their name.
