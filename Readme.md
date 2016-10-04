@@ -21,13 +21,13 @@ Generating hardware info report on Linux based systems.
 
 Output a text file.
 
-####`mass_download_wget.sh`
+#### `mass_download_wget.sh`
 
 A script for downloading the content of a folder on internet.
 
 Not working the way it should. **If you expected to use this, don't because this script doesn't work.**
 
-####`mass_jpg2pdf.sh`
+#### `mass_jpg2pdf.sh`
 Convert a folder worth of ```.JPG``` files to a single pdf, ordered by their name.
 
 Quite a useful tool.
@@ -38,12 +38,12 @@ Quite a useful tool.
 >
 >Execute the script and, when prompted, enter the name of the folder containing the pictures.
 >
->Wait for it to list the file and then press ```Y```.
+>Wait for it to list the file and then press `Y`.
 >
 >Done!
 
 #### `mo2po.sh` & `po2mo.sh`
-Convert the [GNU gettext](https://en.wikipedia.org/wiki/Gettext) `Machine Object` files to `Portable Object` files.
+Convert the [GNU gettext](https://en.wikipedia.org/wiki/Gettext) `Machine Object` files to `Portable Object` files, and vice versa.
 
 Forgot why would I write those.
 
@@ -51,13 +51,19 @@ Forgot why would I write those.
 #### `shutdown.cmd`
 Simple command for practical jokes and pranks.
 
+Put this inside the `Start` folder and let the game begins!
+
 #### `SkeletonHTML.htm`
-A basic, skeleton `HTML` file that contains nothing but a bunch of basic tags. no need to create a new one from strach any more, just fill in the respective tags if you ever have the needs to createdc a new `.htm` file.
+A basic, skeleton `HTML` file that contains nothing but a bunch of basic tags. no need to create a new one from scratch any more, just fill in the respective tags if you ever have the needs to create a new `.htm` file.
 
 #### `Win10LegacyWallpaperChooser.cmd`
 A script that opens the old, *Window 7* style wallpaper settings screen on *Windows 10*. It was never removed, just hidden.
 
 Good if you missed the *Wallpaper Slideshow* feature.
+
+#### `zip_test.sh`
+A script that test the integrity of all the zip files inside the current folder*(And sub-folders)*
+
 ## License
 
 All these files are licensed under the MIT License. 
