@@ -16,6 +16,11 @@ A `.cmd` file for clearing cache files of Google Chrome.
 
 Amazingly useful, especially if you have the unfortunate habit of opening tons of tabs.
 
+#### `chrome_purge_cache_autostart.cmd`
+The same `.cmd` acript for clearing Chrome's cache.
+
+The only difference is that this version close the Command Prompt automatically, so you won't leave a window open if you put it in the `Start` folder.
+
 #### `lshw.sh`
 Generating hardware info report on Linux based systems.
 
