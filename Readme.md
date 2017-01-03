@@ -69,6 +69,9 @@ Good if you missed the *Wallpaper Slideshow* feature.
 #### `zip_test.sh`
 A script that test the integrity of all the zip files inside the current folder*(And sub-folders)*
 
+#### `archive.sh`
+A script that zips every folder inside the current folder into an individual zip file. Good for packaging something you already organized.
+
 ## License
 
 All these files are licensed under the MIT License. 
