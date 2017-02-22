@@ -4,6 +4,8 @@ Miscellaneous tools and script that I wrote due to laziness. Most of them do som
 
 A brief list of the tools:
 
+### Scripts
+
 #### `AndroidUpdate.cmd`
 A small script for updating android phone OS to newer version by using the [Android Debug Bridge](https://developer.android.com/studio/command-line/adb.html).
 
@@ -58,19 +60,26 @@ Simple command for practical jokes and pranks.
 
 Put this inside the `Start` folder and let the game begins!
 
-#### `SkeletonHTML.htm`
-A basic, skeleton `HTML` file that contains nothing but a bunch of basic tags. no need to create a new one from scratch any more, just fill in the respective tags if you ever have the needs to create a new `.htm` file.
-
 #### `Win10LegacyWallpaperChooser.cmd`
 A script that opens the old, *Window 7* style wallpaper settings screen on *Windows 10*. It was never removed, just hidden.
 
 Good if you missed the *Wallpaper Slideshow* feature.
 
 #### `zip_test.sh`
-A script that test the integrity of all the zip files inside the current folder*(And sub-folders)*
+~~A script that test the integrity of all the zip files inside the current folder*(And sub-folders)*~~
+Removed, see my other repo, [Archivist](https://github.com/tonY1883/archivist).
 
 #### `archive.sh`
-A script that zips every folder inside the current folder into an individual zip file. Good for packaging something you already organized.
+~~A script that zips every folder inside the current folder into an individual zip file. Good for packaging something you already organized.~~
+
+Removed, see my other repo, [Archivist](https://github.com/tonY1883/archivist).
+
+### Templates
+
+#### `SkeletonHTML.htm`
+A basic, skeleton `HTML` file that contains nothing but a bunch of basic tags. no need to create a new one from scratch any more, just fill in the respective tags if you ever have the needs to create a new `.htm` file.
+
+
 
 ## License
 
